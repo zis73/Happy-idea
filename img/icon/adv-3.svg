@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="97px" height="100px" viewBox="0 0 97 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/100/friendship</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/100/friendship">
+            <rect id="base" fill="#FFFFFF" opacity="0" x="0" y="0" width="97" height="100"></rect>
+            <g id="friendship-new" transform="translate(5.000000, 0.000000)" fill-rule="nonzero">
+                <polygon id="Shape" fill="#A3292E" points="0.552068474 25.490134 43.7342511 0.670723861 86.9149929 25.490134 43.7342511 50.3095442"></polygon>
+                <polygon id="Shape" fill="#F5BE7A" points="0.552068474 25.490134 43.7342511 50.3095442 43.7342511 99.9469303 0.552068474 75.1275201"></polygon>
+                <polygon id="Shape" fill="#F36B21" points="86.9149929 25.490134 86.9149929 75.1275201 43.7342511 99.9469303 43.7342511 50.3095442"></polygon>
+                <polygon id="Shape" fill="#CE5D2C" points="26.4864479 60.1891153 43.7342511 50.276555 60.9820542 60.1891153 43.7342511 70.1031099"></polygon>
+                <polygon id="Shape" fill="#F36B21" points="43.6924679 79.3458445 16.3172896 69.30563 43.6924679 93.8324397"></polygon>
+                <polygon id="Shape" fill="#89282F" points="43.7760342 30.4987668 61.0238374 40.4127614 61.0238374 60.237882 43.7760342 50.3253217"></polygon>
+                <polygon id="Shape" fill="#EAB071" points="43.6924679 30.4987668 43.6924679 50.3253217 26.4446648 60.237882 26.4446648 40.4127614"></polygon>
+                <polygon id="Shape" fill="#463C77" points="20.7232525 49.0014477 37.9710556 39.0888874 55.2188588 49.0014477 37.9710556 58.9154424"></polygon>
+                <polygon id="Shape" fill="#605696" points="20.7232525 49.0014477 37.9710556 58.9154424 37.9710556 78.740563 20.7232525 68.8280027"></polygon>
+                <polygon id="Shape" fill="#554689" points="55.2188588 49.0014477 55.2188588 68.8280027 37.9710556 78.740563 37.9710556 58.9154424"></polygon>
+                <polygon id="Shape" fill="#ECE198" points="86.9149929 70.1031099 86.9149929 59.7918097 43.6924679 100"></polygon>
+                <polygon id="Shape" fill="#ADC9E8" points="43.6924679 79.3931769 43.6924679 93.8324397 75.0687447 70.8116622"></polygon>
+                <polygon id="Shape" fill="#A3292E" points="86.9149929 45.3683244 86.9149929 30.4987668 65.9139087 73.3159786 86.9149929 53.0978552"></polygon>
+                <polygon id="Shape" fill="#F27FB2" points="78.8652496 46.9116488 64.2526676 38.5151609 60.9820542 40.4758713 61.0238374 51.1859115"></polygon>
+                <polygon id="Shape" fill="#F291C0" points="64.2958916 38.4678284 57.1754636 38.2010456 60.9820542 40.4758713"></polygon>
+                <polygon id="Shape" fill="#D873A3" points="57.2359772 38.1809651 48.8966334 45.3683244 55.2188588 48.9383378 55.2188588 52.5241287 60.9820542 51.233244 60.9820542 40.4758713"></polygon>
+                <polygon id="Shape" fill="#F5BE7A" points="77.3163909 31.0065147 74.6826106 18.4591153 62.0122254 11.1770912"></polygon>
+                <polygon id="Shape" fill="#A3292E" points="69.034679 20.2749598 43.6924679 30.4356568 54.3082739 36.5515818"></polygon>
+                <polygon id="Shape" fill="#89282F" points="54.3543795 36.6032172 43.6924679 42.4839142 43.6924679 30.4356568"></polygon>
+                <polygon id="Shape" fill="#F36B21" points="63.6244793 13.2668901 26.4014408 40.4758713 9.26746077 30.4987668"></polygon>
+                <polygon id="Shape" fill="#ADC9E8" points="38.7447646 3.53935657 43.6924679 0.601876676 51.12699 4.92060322 33.8518117 22.7046917"></polygon>
+                <polygon id="Shape" fill="#ECE198" points="9.25593438 30.4356568 0.552068474 46.5960992 26.4014408 40.4758713"></polygon>
+                <polygon id="Shape" fill="#ADC9E8" points="14.0926961 43.3904021 4.20305278 77.2259249 18.6268902 85.5162735"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

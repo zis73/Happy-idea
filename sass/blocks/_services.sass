@@ -1,0 +1,51 @@
+.services
+  .one,.two, .three
+    display: flex
+    margin: 50px 0
+    justify-content: space-between
+    &--block1
+      width: 700px
+      .numberAndDivider
+        display: flex
+        align-items: center
+        .number
+          color: #f5be7a
+          font-weight: 400
+        .divider
+          margin: auto 10px
+          background-color: #f5be7a
+    &--block2
+      width: 600px
+  .two
+    .numberAndDivider
+      .number
+        color: #a3292d
+        font-weight: 400
+      .divider
+        background-color: #a3292d
+  .three
+    .numberAndDivider
+      .number
+        color: #acc9e9
+        font-weight: 400
+      .divider
+        background-color: #acc9e9
+  &-description-2
+    h2
+      text-align: center
+      padding: 10px 0
+      font-weight: 400
+  &-swiper
+    width: 1000px
+    height: 600px
+    display: flex
+    justify-content: center
+    text-align: center
+    .swiper-slide
+      .image-service
+        display: block
+        margin: 0 auto
+        padding: 0 10px
+        width: 80%
+        height: 100%
+        object-fit: contain

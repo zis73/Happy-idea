@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="97px" height="100px" viewBox="0 0 97 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/100/contract</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/100/contract">
+            <rect id="base" fill="#FFFFFF" opacity="0" x="0" y="0" width="97" height="100"></rect>
+            <g id="contract-new" transform="translate(2.000000, 16.000000)" fill-rule="nonzero">
+                <polygon id="path5049" fill="#A3292E" points="57.3568346 53.476309 0 20.4466953 35.569937 0 92.9267717 33.0296137"></polygon>
+                <polygon id="path5049-2" fill="#F27FB2" points="4.02755906 22.696824 4.02755906 22.696824 24.092126 6.64532189 31.8543307 2.12171674 35.3692913 17.4436052"></polygon>
+                <polygon id="path5049-3" fill="#F5BE7A" points="47.6716535 47.9414592 29.5110236 37.4350215 39.6165354 2.26763948 74.180315 22.113133"></polygon>
+                <polygon id="path5051" fill="#ADC9E8" points="57.3568346 53.476309 57.3568346 61.167897 92.9267717 40.7212017 92.9267717 33.0296137"></polygon>
+                <polygon id="path5049-4" fill="#554689" points="38.1519685 42.5423176 13.4007874 28.2418884 51.9188976 9.27193133 51.9188976 9.27193133"></polygon>
+                <polygon id="path5053" fill="#ECE198" points="0 20.4466953 0 28.1382833 57.3568346 61.167897 57.3568346 53.476309"></polygon>
+                <polygon id="Shape" fill="#ADC9E8" points="57.0624567 16.8263519 71.2965827 8.63862661 85.5307087 16.8263519 71.2965827 25.0155365"></polygon>
+                <polygon id="Shape" fill="#554689" points="57.0624567 16.8263519 71.2965827 25.0155365 71.2965827 41.3909871 57.0624567 33.2032618"></polygon>
+                <polygon id="Shape" fill="#F36B21" points="85.5307087 16.8263519 85.5307087 33.2032618 71.2965827 41.3909871 71.2965827 25.0155365"></polygon>
+                <polygon id="path5049-5" fill="#F36B21" points="46.3725827 60.1887554 8.71417323 38.4564807 15.5976378 34.3706438 53.3834646 56.113133"></polygon>
+                <polygon id="path5051-2" fill="#A3292E" points="46.3725827 60.1887554 46.3725827 67.8803433 53.3834646 63.8470386 53.3834646 56.113133"></polygon>
+                <polygon id="path5053-2" fill="#F5BE7A" points="8.71417323 38.4564807 8.71417323 45.168927 46.3725827 67.8803433 46.3725827 60.1887554"></polygon>
+                <polygon id="Shape" fill="#554689" points="42.8927717 50.076309 27.5426457 41.2450644 18.7581732 44.2525322 28.2998268 49.7596567"></polygon>
+                <polygon id="Shape" fill="#ADC9E8" points="22.9614803 53.7623176 18.819685 44.2933906 28.1929134 49.6925322"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

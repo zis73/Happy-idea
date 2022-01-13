@@ -1,0 +1,34 @@
+.header
+  width: 100%
+  height: 90px
+  position: fixed
+  z-index: 5
+  background-color: #fff
+  border-bottom: 5px solid #ff0000
+  &-wrapper
+    display: flex
+    justify-content: space-between
+    padding: 10px 10px
+    align-items: center
+    .logo-header
+      width: 200px
+      height: 70px
+      img
+        width: 100%
+        height: 100%
+        object-fit: contain
+    .burger
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      width: 200px;
+      height: 50px;
+      flex-wrap: wrap;
+      .burger-span
+        background: #ff0000
+        width: 50px
+        height: 5px
+      a
+        +oswald(25px)
+        text-decoration: none
+        color: #ff0000

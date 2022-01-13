@@ -1,0 +1,42 @@
+.hello-block
+  .container
+    background: none
+    max-width: 700px
+    height: 400px
+    margin: 0
+    padding: 30px
+  &-swiper  
+    display: flex
+    justify-content: space-between
+    max-width: 600px
+    height: 300px
+    position: relative
+    background-color: rgba(85, 70, 137, .85) 
+    .swiper-slide
+      padding-top: 80px
+      padding-left: 40px
+      h3
+        color: #fff
+        font-size: 48px
+      li
+        +ubuntu(22px)
+        color: #fff
+    .slider-button
+      position: absolute
+      bottom: 0
+      z-index: 99
+      width: 60px
+      height: 60px
+      border: none
+      background-color: rgb(245, 190, 122)
+      background-repeat: no-repeat
+      background-position: center
+      background-size: 30px
+      cursor: pointer
+      &--prev
+        left: 0px
+        background-image: url(/img/icon/right-arrow-svgrepo-com.svg)
+        transform: rotate(180deg)
+      &--next
+        left: 60px
+        background-image: url(/img/icon/right-arrow-svgrepo-com.svg)  
