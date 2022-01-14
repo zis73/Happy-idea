@@ -532,11 +532,11 @@ body p {
 }
 
 .prices-swiper .swiper-slide .image-price {
-  width: 90%;
+  display: block;
+  width: 100%;
   height: 100%;
   padding: 0 10px;
   margin: 0 auto;
-  display: block;
   object-fit: contain;
 }
 
@@ -954,8 +954,14 @@ body p {
     padding-left: 0px;
   }
   .services-swiper {
-    width: 90%;
+    width: 100%;
     height: 200px;
+  }
+  .services-swiper .swiper-slide .image-service {
+    width: 100%;
+  }
+  .services .swiper-button-next, .services .swiper-button-prev {
+    display: none;
   }
   .services .one, .services .two, .services .three {
     flex-wrap: wrap;
@@ -972,11 +978,14 @@ body p {
     font-size: 16px;
   }
   .prices-swiper {
-    width: 280px;
+    width: 320px;
     height: 200px;
   }
   .prices-button {
     font-size: 18px;
+  }
+  .prices .swiper-button-next, .prices .swiper-button-prev {
+    display: none;
   }
   .clients-swiper .swiper-slide img {
     width: 110px;
@@ -1065,10 +1074,6 @@ body p {
     width: 300px;
     padding-left: 0px;
   }
-  .services-swiper {
-    width: 90%;
-    height: 200px;
-  }
   .services .one, .services .two, .services .three {
     flex-wrap: wrap;
   }
@@ -1084,11 +1089,14 @@ body p {
     font-size: 16px;
   }
   .prices-swiper {
-    width: 280px;
+    width: 320px;
     height: 200px;
   }
   .prices-button {
     font-size: 18px;
+  }
+  .prices .swiper-button-next, .prices .swiper-button-prev {
+    display: none;
   }
   .clients-swiper .swiper-slide img {
     width: 110px;
