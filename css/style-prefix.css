@@ -978,7 +978,7 @@ body p {
   }
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 378px) {
   .divider {
     height: 30px;
   }
