@@ -60,7 +60,6 @@ const swiper = new Swiper('.services-swiper', {
 const swiper2 = new Swiper('.prices-swiper', {
   //Бесконечная прокрутка
   loop: true,
-  speed: 400,
   spaceBetween: 100,
   // Navigation arrows
   navigation: {
