@@ -26,36 +26,22 @@ const swiper = new Swiper('.services-swiper', {
     480: {
       slidesPerView: 1,
       spaceBetween:0,
-      speed:0,
+      speed:2000,
       autoplay:{
-        delay:0,
+        delay:2500,
         disableOnInteraction: false
       },
     },
     769: {
       slidesPerView: 1,
       spaceBetween:0,
-      speed:0,
+      speed:2000,
       autoplay:{
-        delay:0,
+        delay:2500,
         disableOnInteraction: false
       },
     },
   },
-  // autoHeight: true,
-  // slidesPerView: 1,
-  // centeredSlides: true,
-
-  // loopedSlides:3,
-  // //Автопрокрутка
-  // autoplay:{
-  //   delay:3000,
-  //   disableOnInteraction: false
-  // },
-  // effect: 'fade',
-  // fadeEffect: {
-  //   crossFade: true
-  // }
 });
 const swiper2 = new Swiper('.prices-swiper', {
   //Бесконечная прокрутка
@@ -85,36 +71,23 @@ const swiper2 = new Swiper('.prices-swiper', {
     480: {
       slidesPerView: 1,
       spaceBetween:0,
-      speed:0,
+      speed:2000,
       autoplay:{
-        delay:0,
+        delay:2500,
         disableOnInteraction: false
       },
     },
     769: {
       slidesPerView: 1,
       spaceBetween:0,
-      speed:0,
+      speed:2000,
       autoplay:{
-        delay:0,
+        delay:2000,
         disableOnInteraction: false
       },
     },
   },
-  // autoHeight: true,
-  // slidesPerView: 1,
-  // centeredSlides: true,
 
-  // loopedSlides:3,
-  // //Автопрокрутка
-  // autoplay:{
-  //   delay:5000,
-  //   disableOnInteraction: false
-  // },
-  // effect: 'fade',
-  // fadeEffect: {
-  //   crossFade: true
-  // }
 });
 const swiper3 = new Swiper('.clients-swiper', {
   //Бесконечная прокрутка
@@ -165,10 +138,6 @@ const swiper3 = new Swiper('.clients-swiper', {
 const swiper4 = new Swiper('.hello-block-swiper', {
   //Бесконечная прокрутка
   loop: true,
-  // autoHeight: true,
-  // centeredSlides: true,
-
-  // loopedSlides:1,
   //Автопрокрутка
   speed:2000,
   autoplay:{
